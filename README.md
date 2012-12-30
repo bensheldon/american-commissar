@@ -1,7 +1,13 @@
 American Commissar
 ==================
 
-This is a 3+ year family archive project to digitize and distribute my late grandfather’s autobiography, _American Commissar_. The book follows my grandfather from Hungary to America as an immigrant in the 1920s; his entrance to the communist party and their activities during the 1920s and 30s; his wartime experiences serving with the Abraham Lincoln Brigade in the Spanish Civil War; and his frustration and disillusionment with the international Soviet communist movement. The book is human, funny, and—my grandfather being an accomplished playwright—well-paced with memorable scenes and stories. Seriously.
+This is a family archive project to digitize and distribute my late grandfather’s autobiography, _American Commissar_. As chapters are edited, they are published to [http://americancommissar.wordpress.com](http://americancommissar.wordpress.com
+).
+
+
+![Sandor Voros](https://raw.github.com/bensheldon/american-commissar/master/images/sandor-smile.png)
+
+_American Commissar_ follows Sandor Voros, my grandfather, from Hungary to America as an immigrant in the 1920s; his entrance to the communist party and their activities during the 1920s and 30s; his wartime experiences serving with the Abraham Lincoln Brigade in the Spanish Civil War; and his frustration and disillusionment with the international Soviet communist movement. The book is human, funny, and—my grandfather being an accomplished playwright—well-paced with memorable scenes and stories. Seriously.
 
 I have been scanning, converting to text (OCR) and proof-reading against the original text. When I’m finished I’ll be submitting the entirety to [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page).
 
@@ -14,9 +20,9 @@ If you have any questions, comments or contributions please open an issue or ema
 Making Contributions
 --------------------
 
-Unfortunately, scanning and OCRing this text---as it includes non-English words, diacriticals and special formatting---is not a straightforward task. While previously I had been making edits (based on the original book's text) using Scrivener, I have moved over to Github to make the process somewhat more transparent and (hopefully) more open to contributions (not that Git or Github are particularly accessible, but moreso than the previous workflow). 
+Unfortunately, scanning and OCRing this text—as it includes non-English words, diacriticals and special formatting—is not a straightforward task. While previously I had been making edits (based on the original book's text) using Scrivener, I have moved over to Github to make the process somewhat more transparent and (hopefully) more open to contributions (not that Git or Github are particularly accessible, but more so than the previous workflow). 
 
-If you find any errors you can open an issue, or if you would like to make changes/updates directly you can:
+If you find any errors you can [open an issue](https://github.com/bensheldon/american-commissar/issues/new) (first check that the error hasn't already been [noted](https://github.com/bensheldon/american-commissar/issues)), or if you would like to make changes/updates directly you can:
 
 1. Create a Github Account (assuming you don't already have one)
 2. Fork the project
