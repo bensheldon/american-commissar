@@ -20,7 +20,7 @@ If you have any questions, comments or contributions please open an issue or ema
 Making Contributions
 --------------------
 
-Unfortunately, scanning and OCRing this text—as it includes non-English words, diacriticals and special formatting—is not a straightforward task. While previously I had been making edits (based on the original book's text) using Scrivener, I have moved over to Github to make the process somewhat more transparent and (hopefully) more open to contributions (not that Git or Github are particularly accessible, but more so than the previous workflow). 
+Unfortunately, scanning and OCRing this text—as it includes non-English words, diacriticals and special formatting—is not a straightforward task. While previously I had been making edits (based on the original book's text) using Scrivener, I have moved over to Github to make the process somewhat more transparent and (hopefully) more open to contributions (not that Git or Github are particularly accessible, but more so than the previous workflow).
 
 If you find any errors you can [open an issue](https://github.com/bensheldon/american-commissar/issues/new) (first check that the error hasn't already been [noted](https://github.com/bensheldon/american-commissar/issues)), or if you would like to make changes/updates directly you can:
 
@@ -33,9 +33,9 @@ If you find any errors you can [open an issue](https://github.com/bensheldon/ame
 License & Copyright
 -------------------
 
-It is my best opinion that this book is a part of the **Public Domain**; though if you use this version of the text, I would appreciate attribution. 
+It is my best opinion that this book is a part of the **Public Domain**; though if you use this version of the text, I would appreciate attribution.
 
-United States copyright law is [rather](http://www.llrx.com/features/digitization.htm) [complicated](http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview/chapter8/index.html), but from using the many resources available at the [Stanford Copyright and Fair Use Center](http://fairuse.stanford.edu/), I am confident that this opinion is correct. That includes the [Digital Copyright Slider](http://librarycopyright.net/digitalslider/), searching [Stanford’s Copyright Renewal Database](Stanford’s Copyright Renewal Database) as well as the (Library of Congress’s Copyright Catalog)[http://cocatalog.loc.gov/].
+United States copyright law is [rather](http://www.llrx.com/features/digitization.htm) [complicated](http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview/chapter8/index.html), but from using the many resources available at the [Stanford Copyright and Fair Use Center](http://fairuse.stanford.edu/), I am confident that this opinion is correct. That includes the [Digital Copyright Slider](http://librarycopyright.net/digitalslider/), searching [Stanford’s Copyright Renewal Database](https://exhibits.stanford.edu/copyrightrenewals) as well as the [Library of Congress’s Copyright Catalog](http://cocatalog.loc.gov/).
 
 Canadian (and other international copyrights) I am less confident of.
 
@@ -44,9 +44,3 @@ Canadian (and other international copyrights) I am less confident of.
 > Copyright © 1961 by Sandor Voros. First Edition. All Rights Reserved. Published in Philadelphia by Chilton Company, and simultaneously in Toronto, Canada, by Ambassador Books, Ltd. Library of Congress Catalog Card Number 61-9024. Designed by William E. Lickfield. Manufactured in the United States of America by Quinn & Boden Company, Inc. Rahway, N.J.
 
 As far as I can tell, this copyright was not renewed in the United States.
-
-
- 
-
-
-
