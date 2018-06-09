@@ -29,6 +29,10 @@ If you find any errors you can [open an issue](https://github.com/bensheldon/ame
 3. Make changes to your forked copy (either through Github's online interface or on your local computer using Git)
 4. Make a pull request back to this project, where I will review your changes/updates, offer feedback and hopefully merge your changes into this project
 
+### Common edits
+
+- Replacing dashes (-) with emdashes (—)
+
 
 License & Copyright
 -------------------
