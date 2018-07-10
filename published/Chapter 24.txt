@@ -60,7 +60,7 @@ It didn't work out that way. There were still merely a dozen or so people in the
 
 At ten-thirty the hall was still quite empty although we were supposed to have left that hail by ten; we were now a half hour late and not even the placards had been delivered. Finally the placards arrived and I was given mine. It was about thirty-six by twenty-four inches, made of heavy cardboard nailed to a crossbar fashioned of one-by-two white pine, designed to be hung from a hook screwed into a four foot pole also made of pine. The pole was roughly planed and the placard read:
 
-<blockquote style=”text-align:right”>
+<blockquote style="text-align:right">
 H  A  N  D  S
 O  F  F
 H  A  I  T  I
@@ -97,7 +97,7 @@ I was in a daze, trying to catch my breath, when a blinding pain exploded in my 
 
 The pain in my arm was centered in the biceps and it wouldn't let down, it was a stabbing ache and I was growing more and more angry. "The sonofabitches! The sonofabitches! They had no right to do that to me." The street was littered with torn placards. I looked for mine and found an irregularly torn piece of it. I picked it up. It now read:
 
-<pre style=”margin-left: 40px; margin-right: 40px; text-align:right”>
+<pre style="margin-left: 40px; margin-right: 40px; text-align:right">
 A  N  D
           F
 H  A  I  T  I
