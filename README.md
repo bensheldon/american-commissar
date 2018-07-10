@@ -1,7 +1,7 @@
 American Commissar
 ==================
 
-This is a family archive project to digitize and distribute my late grandfather’s autobiography, _American Commissar_. As chapters are edited, they are published to [http://americancommissar.wordpress.com](http://americancommissar.wordpress.com
+This is a family archive project to digitize and distribute my late grandfather's autobiography, _American Commissar_. As chapters are edited, they are published to [http://americancommissar.wordpress.com](http://americancommissar.wordpress.com
 ).
 
 
@@ -9,11 +9,11 @@ This is a family archive project to digitize and distribute my late grandfather�
 
 _American Commissar_ follows Sandor Voros, my grandfather, from Hungary to America as an immigrant in the 1920s; his entrance to the communist party and their activities during the 1920s and 30s; his wartime experiences serving with the Abraham Lincoln Brigade in the Spanish Civil War; and his frustration and disillusionment with the international Soviet communist movement. The book is human, funny, and—my grandfather being an accomplished playwright—well-paced with memorable scenes and stories. Seriously.
 
-I have been scanning, converting to text (OCR) and proof-reading against the original text. When I’m finished I’ll be submitting the entirety to [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page).
+I have been scanning, converting to text (OCR) and proof-reading against the original text. When I'm finished I'll be submitting the entirety to [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page).
 
-In addition to my own personal interest in the work, I think the book has enduring lessons. As a 2nd generation American citizen, the experience of confused immersion and material poverty is so distant; as is the experience of the early-20th century, which few history books expose from such unique points of view. Fighting against the Fascists during the Spanish Civil War, my grandfather would today have been classified as an “unlawful combatant” or terrorist; yet at the time was cheered both locally and abroad. Most enduringly, I think his view of community organizing and his experience with the American Communist Party at the time is profound: the radical populism of the American Communist Party was one of the few movements actively advocating for the social services we take for granted today like Medicare, Social Security and unemployment insurance. As my grandfather argues, it was these evolutionary reforms that protected the American way of life (enduring freedom and opportunities) from Soviet style revolution—a movement that at its end my grandfather became disillusioned with and he worked the rest of his life to distance himself from.
+In addition to my own personal interest in the work, I think the book has enduring lessons. As a 2nd generation American citizen, the experience of confused immersion and material poverty is so distant; as is the experience of the early-20th century, which few history books expose from such unique points of view. Fighting against the Fascists during the Spanish Civil War, my grandfather would today have been classified as an "unlawful combatant" or terrorist; yet at the time was cheered both locally and abroad. Most enduringly, I think his view of community organizing and his experience with the American Communist Party at the time is profound: the radical populism of the American Communist Party was one of the few movements actively advocating for the social services we take for granted today like Medicare, Social Security and unemployment insurance. As my grandfather argues, it was these evolutionary reforms that protected the American way of life (enduring freedom and opportunities) from Soviet style revolution—a movement that at its end my grandfather became disillusioned with and he worked the rest of his life to distance himself from.
 
-While the book is a harsh critique of the Communist Party, I think my grandfather’s hope, optimism, and well-intentioned desire for positive change—topical concepts for today—are the book’s strongest themes; though I am of a much different generation than both my parents and my grandfather’s contemporaries.
+While the book is a harsh critique of the Communist Party, I think my grandfather's hope, optimism, and well-intentioned desire for positive change—topical concepts for today—are the book's strongest themes; though I am of a much different generation than both my parents and my grandfather's contemporaries.
 
 If you have any questions, comments or contributions please open an issue or email me at bensheldon@gmail.com (though I'd prefer if you opened an issue).
 
@@ -39,7 +39,7 @@ License & Copyright
 
 It is my best opinion that this book is a part of the **Public Domain**; though if you use this version of the text, I would appreciate attribution.
 
-United States copyright law is [rather](http://www.llrx.com/features/digitization.htm) [complicated](http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview/chapter8/index.html), but from using the many resources available at the [Stanford Copyright and Fair Use Center](http://fairuse.stanford.edu/), I am confident that this opinion is correct. That includes the [Digital Copyright Slider](http://librarycopyright.net/digitalslider/), searching [Stanford’s Copyright Renewal Database](https://exhibits.stanford.edu/copyrightrenewals) as well as the [Library of Congress’s Copyright Catalog](http://cocatalog.loc.gov/).
+United States copyright law is [rather](http://www.llrx.com/features/digitization.htm) [complicated](http://fairuse.stanford.edu/Copyright_and_Fair_Use_Overview/chapter8/index.html), but from using the many resources available at the [Stanford Copyright and Fair Use Center](http://fairuse.stanford.edu/), I am confident that this opinion is correct. That includes the [Digital Copyright Slider](http://librarycopyright.net/digitalslider/), searching [Stanford's Copyright Renewal Database](https://exhibits.stanford.edu/copyrightrenewals) as well as the [Library of Congress's Copyright Catalog](http://cocatalog.loc.gov/).
 
 Canadian (and other international copyrights) I am less confident of.
 
