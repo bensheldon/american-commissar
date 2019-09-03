@@ -1,0 +1,7 @@
+url: ""
+collections:
+  chapters:
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - .idea/

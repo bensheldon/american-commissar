@@ -1,0 +1,33 @@
+---
+title: Chapter 57
+---
+
+We landed in New York some time in December, 1938. The customs did not delay us long, most of us had nothing of value to declare. My possessions consisted of my notebooks, some historical documents and photographs I had managed to retain for souvenirs, a few handkerchiefs, two pairs of spare socks, an extra shirt and one extra set of underwear, all packed in a cheap paper suitcase. The customs inspector gave it one disgusted look, poked a wary index finger into the contents, nodded to me to close the top, scribbled a hasty cross on it and I was through, back in America, alive. Of the approximately 4800 American volunteers about 3500 had served with the combat troops, according to my reconstruction. Nearly three out of every four of the latter had been killed fighting Fascism in Spain. I doubt the accurate figures will ever be ascertained for no full record was kept either here or in Spain.
+
+After we were through the customs the party organized us into a parade. I marched for about a block and then pulled out only to find myself surrounded by a number of admiring comrades; some I recognized, the rest seemed only vaguely familiar. I was a hero!
+
+We walked cast on Fiftieth Street and I paused three times to buy frankfurters. I ate five of them and was on my sixth when we entered a cafeteria. I had a couple of hot roast beef sandwiches there and drank glass after glass of beer. On my way out I saw a penny scale and stepped on it. Beer, hot dogs, sandwiches and all, I was still a skinny bastard; weighed only 137 pounds.
+
+My proud friends escorted me in triumph to the office of the Friends of the Abraham Lincoln Brigade which was overcrowded with waiting friends and relatives. The air was festive and jubilant. Tacked on the wall were all kinds of mimeographed invitations to receptions by the various party branches in honor of "these brave sons of the toilers, the conquering heroes of the revolutionary working class who slew the ugly beast of Fascism. Donation Fifty Cents."
+
+When my turn came to register, the girl comrade took my name, address, the party unit to which I belonged, which was Ohio. I had no New York address. When she heard that she offered me a room way out in Brooklyn belonging to a comrade who was temporarily out of town. I could use that for a couple of days until I found a place of my own. She then informed me the Friends of the Abraham Lincoln Brigade were desperately short of funds, I would understand that with all the expenses they were having, but she could let me have a couple of dollars if I needed assistance desperately, five dollars, she eyed me speculatively, ten dollars! That was absolutely the limit, but the party would get me on relief before I spent that ten if I was careful with it. I told her I didn't want any money, which made her happy.
+
+She asked me to wait, she would see if there were any messages for me, she came back with three, her voice and entire attitude changed. She was a hairy witch with warts all over her face. She didn't know I was <em>the</em> Comrade Voros, she used to read my articles in the <em>Daily Worker</em> and she loved them, she smiled at me coquettishly, handing me the slips. One was from the editor of the <em>Daily Worker</em>, the other two from the Central Committee, all of them requesting me to report there at once.
+
+The girl comrade asked me to give back the key, she had just recalled that a comrade had offered her apartment which was much closer, it was in Manhattan just outside the Village. I could have it for two whole weeks, it was a very modern apartment beautifully furnished, she had been there once to a most wonderful party. She also asked me was I sure I didn't need any money, she could let me have twenty dollars for the time being. I accepted the apartment but again refused the cash, the very thought of accepting money collected by the party for Spanish aid made me feel unclean.
+
+As I was leaving I was again met by friends, new ones. They were discussing the shameful betrayal by Daladier in Munich who had thwarted the burning desire of the French people to go to war against Hitler in defense of Czechoslovakia.
+
+I listened to them in wonder. They were intelligent, educated men and women, most of them in the learned professions, how could they be that ignorant? I explained to them that the French people did not want to fight, Daladier was a hero to them for averting war. Now it was their turn to be incredulous, hadn't I read this article in the <em>Daily Worker</em>, or that one in the <em>Inprecor</em>? How stupid of them, of course I couldn't know what was going on in the world, after all I had just come from Spain, I had been isolated.
+
+I retorted acidly I had just spent six days in France, had met all sorts of people in Le Havre, including the striking seamen—the French were completely demoralized, they would rather make a pact with the devil than go to war.
+
+That broke up the party. Some of the comrades gave me quizzical looks, others began to soothe me:
+
+"Don't get worked up. We know what you have been through, after a good rest you'll be back to normal."
+
+By now it was late afternoon, there was still time to go up to the <em>Daily Worker</em> and the Central Committee, but I thought to hell with that. I wandered around taking in the familiar sights of New York without absorbing much. My thoughts were revolving hazily without any clear ideas emerging. Now and then I stopped for another hot dog, another cup of coffee, then went to the apartment that unknown comrade had so trustingly offered to the party.
+
+The apartment was full of modern prints and books and smelled of perfume and powder, making me wish she were there, whatever she looked like. I felt low and in strong need of feminine companionship. I considered going to one of those party receptions to pick up a woman, yet the thought of the stupid adulation to which I would be subjected repelled me, nor was I in the mood to take any more of that cocksure party spouting to which I had been exposed since I stepped off the boat. I went out, located a liquor store, bought myself a fifth and went back to the apartment.
+
+I drank myself stupid that night, the first and only time I ever went on a solitary drunk. I hummed to myself all the Spanish revolutionary songs I knew until I came to the Internationale. I sang that in English, and loud. I repeated the chorus over and over until the words actually became animated and leered at me: "THE INTERNATIONAL SOVIET SHALL BE THE HUMAN RACE." They wouldn't go away and I got mad. I smashed the glass against the fireplace, tore off my clothes and went to bed.
