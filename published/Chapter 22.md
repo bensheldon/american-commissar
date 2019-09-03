@@ -1,3 +1,5 @@
+<img class="alignleft size-full wp-image-17" title="dingbat" src="http://americancommissar.wordpress.com/files/2009/01/dingbat.png" alt="dingbat" width="25" height="108" />
+
 Kovess and I came to see much of each other; he would drop in on me whenever he could snatch a free evening from his crowded routine. As the secretary of the Hungarian Bureau he was the leader of all Hungarian Communists in the United States and Canada, directing and supervising all their activities. He was also responsible for setting editorial policy for the <em>Uj Elore</em>, the Hungarian Communist daily, and writing editorials for it. In addition, the Central Committee of the Party had charged him with the task of involving the Hungarian Communists in general party work as part of the process of "Americanization" of the Communist Party, the membership of which, at that time in 1929, was overwhelmingly foreign born. His visits to me were his momentary escapes from the constant pressure he was under and I encouraged him to come and relax. This was my first experience with a real flesh and blood Communist leader and I found him the most stimulating intellect I had met until that time. He would challenge my every concept of society with biting comment and pungent observation, approaching every problem from a fresh slant and with startling originality.
 
 The key to this insight, as he explained, was the Marxian dialectical approach. To acquire this slant, reading Marx alone as I had done under his urging, was not enough—it had to become "part of one's blood through participation in the class struggle." Marx had merely developed the basic laws governing society, namely, that all social institutions have grown out of the eternal struggle between the masters and the slaves, between the exploiter and the exploited, and explained the methods by which the ruling classes have successfully managed to mask the depraved character of their activities behind a veil of hypocrisy. To penetrate that mask required a constant probing into the question: "Whose economic interests are being served?" However, a person militantly involved in the class struggle no longer had to grope for this answer, he developed it automatically in the course of fighting the class enemy.
@@ -92,7 +94,7 @@ Electrified barbed wire with machine gun towers; armed sentries patrolling with 
 
 That Chief Warden with the master whip, that Red Simon Legree, is Comrade Louis Kovess who some twenty odd years ago had told me in Gramercy Park that no humans, only beasts, could be induced to seize their fellow creatures made of flesh and blood and keep them locked behind bars, that human freedom is more precious than life itself.
 
-It couldn't be, yet it was. It added up. It was dialectics. 
+It couldn't be, yet it was. It added up. It was dialectics.
 
 Yet there was more to it.
 

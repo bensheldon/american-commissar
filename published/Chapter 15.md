@@ -23,4 +23,4 @@ I was learning. I learned that there are variations and degrees in human exploit
 
 I learned that cruel exploitation germinates hate.
 
-Murderous hate!
+<em>Murderous hate!</em>

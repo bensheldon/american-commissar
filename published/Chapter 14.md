@@ -21,7 +21,7 @@ The next Saturday I called the boss aside again. "Mr. Kourash, I would like to t
 "I want to talk to you, too," again he interrupted with a majestic gesture. "I want to tell you how pleased I am with the progress you are making. To show how much I think of you, beginning this week I am going to pay you one dollar more."
 
 He was giving me a raise voluntarily without my even asking for it! He was really a good boss, a fine man to work for. True, I had intended to ask him for a three-dollar raise but I couldn't do that under these circumstances. A man is not a pig.
-	
+
 Thirteen dollars a week still did not allow me to buy all the food I needed. I was always hungry. My cousin had been raised to $18 that week and the week after that to $20, all without his even asking for it. The season was on, the men in the shop were all working overtime and got paid for it, I didn't. My cousin asked me to go to work in his shop, he had talked with his foreman and he was eager to take me on. That Saturday I went to the boss and asked him for $18 a week. In truth I had planned to ask him for $20, but faltered at the last minute.
 
 Mr. Kourash was deeply wounded by my action. Here he was treating me like his own son, entrusting me with the keys, giving me all the opportunity to learn the trade. He had been accustomed to people taking advantage of his trusting confident nature, of his generosity. But never, never did he dream that I, of all people, would show such ingratitude. He became real angry, and gave me a terrific dressing down, accusing me of treachery, of cold-bloodedly stabbing him in the back.
@@ -54,7 +54,7 @@ Four weeks later the season was over and all the men in the shop were laid off, 
 
 The next week in the shop was like a dream. I nailed up the few remaining collars and then a small order came in. Since Mr. Kourash was no mechanic that left it all to me and I cut, sewed, nailed, and finished up that order brilliantly all by myself. I was really getting to be an all-around master furrier, the kind that was getting scarce in the trade.
 
-After that order had been filled I set about to clean the shop. I swept and mopped every corner, every inch of the floor, sorted all the patterns, took inventory of the stock, bundled up all loose skins and hung them neatly on the racks. When everything was spick-and-span and a joy to behold, I called Mr. Kourash in and proudly displayed the shop to him. Mr. Kourash examined everything minutely and was greatly pleased. He then pulled out sixteen dollars and told me he wouldn't be needing me any more, I should see him next spring, and to leave the keys on his desk. 
+After that order had been filled I set about to clean the shop. I swept and mopped every corner, every inch of the floor, sorted all the patterns, took inventory of the stock, bundled up all loose skins and hung them neatly on the racks. When everything was spick-and-span and a joy to behold, I called Mr. Kourash in and proudly displayed the shop to him. Mr. Kourash examined everything minutely and was greatly pleased. He then pulled out sixteen dollars and told me he wouldn't be needing me any more, I should see him next spring, and to leave the keys on his desk.
 
 He wouldn't even let me finish out the week!
 

@@ -1,5 +1,3 @@
-
-
 Weeks passed and then in September I received a letter. It came in a cheap white envelope, very poorly typed, with no return address. It instructed me to report to Section Headquarters of the Communist Party at eight o'clock in the evening on Broadway between 27th and 28th Streets where I would be assigned to a party unit.
 
 It was an old building and I found Section Headquarters on the second floor, as I recollect it, in a large unpartitioned open loft. A bewildering hubbub of loud voices filled that hall and I couldn't attract anybody's attention. The entire floor space seemed jammed with people grouped in circles; some sat on folding chairs, some of them stood, others squatted on the dirty, littered floor.

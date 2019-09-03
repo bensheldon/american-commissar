@@ -56,11 +56,11 @@ I wasn't asking for philosophical dissertation, I wanted action. "What about the
 
 I left him and went down to Horn & Hardart for another breakfast to give me something to do. I deliberately stayed away until after ten. Let them wait for me now.
 
-It didn't work out that way. There were still merely a dozen or so people in the hall when I returned. My unit organizer was there, she was all dressed up, eager and excited as if going to a party. The other women comrades appeared similarly dressed up and stimulated. My observations later made me conclude that women in general are less apprehensive about being physically harmed. Putting women in the front line of action when violence is anticipated has always been sound revolutionary tactics. First, because women usually exhibit more militancy; secondly, the enemy, usually men, is far more reluctant to employ the same degree of brutality when faced with women that it would use against men alone. As to the morality of exposing women to the danger of physical assault, the revolutionaries make up their own moral code to suit their aims. . . . 
+It didn't work out that way. There were still merely a dozen or so people in the hall when I returned. My unit organizer was there, she was all dressed up, eager and excited as if going to a party. The other women comrades appeared similarly dressed up and stimulated. My observations later made me conclude that women in general are less apprehensive about being physically harmed. Putting women in the front line of action when violence is anticipated has always been sound revolutionary tactics. First, because women usually exhibit more militancy; secondly, the enemy, usually men, is far more reluctant to employ the same degree of brutality when faced with women that it would use against men alone. As to the morality of exposing women to the danger of physical assault, the revolutionaries make up their own moral code to suit their aims. . . .
 
 At ten-thirty the hall was still quite empty although we were supposed to have left that hail by ten; we were now a half hour late and not even the placards had been delivered. Finally the placards arrived and I was given mine. It was about thirty-six by twenty-four inches, made of heavy cardboard nailed to a crossbar fashioned of one-by-two white pine, designed to be hung from a hook screwed into a four foot pole also made of pine. The pole was roughly planed and the placard read:
 
-<blockquote style="text-align:right">
+<blockquote>
 H  A  N  D  S
 O  F  F
 H  A  I  T  I
@@ -97,7 +97,7 @@ I was in a daze, trying to catch my breath, when a blinding pain exploded in my 
 
 The pain in my arm was centered in the biceps and it wouldn't let down, it was a stabbing ache and I was growing more and more angry. "The sonofabitches! The sonofabitches! They had no right to do that to me." The street was littered with torn placards. I looked for mine and found an irregularly torn piece of it. I picked it up. It now read:
 
-<pre style="margin-left: 40px; margin-right: 40px; text-align:right">
+<pre>
 A  N  D
           F
 H  A  I  T  I

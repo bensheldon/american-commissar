@@ -35,4 +35,3 @@ After their consultation Balint announced officially that everything was in orde
 I was in and was immediately appointed to the Press and Publicity Committee and also to the Executive Board of the League.
 
 They certainly recognized talent when they saw it. I felt rather flattered.
-
